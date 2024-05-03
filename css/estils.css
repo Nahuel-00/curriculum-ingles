@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+body{
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.jumbotron {
+  background-color: #007bff;
+  color: white;
+}
+.section-title {
+  margin-top: 10%;
+  font-size: 200%;
+  padding-bottom: 3%;
+}
+
+.col-md-6{
+  padding-left: 4%;
+
+}
+
+.presentacion{
+  font-size: 140%;
+}
+
+
+#video{
+  margin-top: 2%;
+  
+}
+
+.video1{
+  border: 3px solid;color: rgb(255, 217, 0);
+  border-radius: 7%;
+}
+
+.progress{
+
+  width: 16%;
+  border: 2px solid;color: black;
+  margin-left: 13.4%;
+
+
+}
+
+.progreso1{
+  display: flex;
+}
+
+.progreso2{
+  display: flex;
+  margin-top: 5%;
+
+}
+
+#educacion{
+  margin-left: 3%;
+  margin-bottom: 3%;
+  margin-top: 13%;
+}
+
+.educacion2{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 8%;
+  text-align: center;
+  font-size: 131%;
+}
+
+.educacion3{
+  margin-left: 12%;
+  margin-right: 10%;
+  text-align: center;
+  font-size: 131%;
+  color: red;
+  margin-bottom: 3%;
+}
+
+#habilidades{
+  margin-left: 3%;
+  margin-bottom: 3%;
+  margin-top: 14%;
+}
+
+.logro{
+
+  width: 15%;
+}
+
+.logro{
+
+  width: 13%;
+  position: absolute;
+  top: 156%;
+  left: 12%; 
+  transform: translate(-50%, -50%); 
+  text-align: center; 
+  font-size: 200%;
+}
+
+.logro2{
+
+  width: 13%;
+  position: absolute;
+  top: 156%;
+  left: 88%; 
+  transform: translate(-50%, -50%); 
+  text-align: center; 
+  font-size: 200%;
+}
+
+.botones{
+
+  text-align: center;
+}
+
+.boton{
+    margin-left: 8%;
+    margin-bottom: 5%;
+  
+}
+
+.boton{
+  margin-right: 5%;
+
+}
+
+
+#robot img{
+  width: 100%;
+  margin-left: 5%;
+}
+
+.section-title5 {
+  margin-top: 30%;
+  font-size: 200%;
+  padding-bottom: 3%;
+}
+
+#sonido img{
+  width: 70%;
+  padding-top: 20%;
+  margin-left: 8%;
+}
+
+.section-title6 {
+  padding-top: 17%;
+  font-size: 200%;
+  padding-bottom: 3%;
+}
+
+
+#five img{
+  width: 95%;
+  padding-top: 28%;
+  margin-left: 2%;
+}
+
+#juego1{
+  margin-left: 17%;
+  margin-bottom: 20%;
+}
+
+
+
+#torre img{
+  width: 100%;
+  padding-top: 22%;
+  margin-left: 2%;
+  margin-bottom: 25%;
+}
+
+
+#juego2{
+  margin-left: 17%;
+  margin-bottom: 20%;
+}
+
+.curso1{
+
+  font-size: 145%;
+  text-align: center;
+}
+
+
+.col-md-62{
+
+  width: 50%;
+  padding-top: 1.9%;
+}
+
+.col-md-63{
+
+  width: 50%;
+  padding-top: 1.9%;
+}
+
+.curso2{
+
+  font-size: 145%;
+  margin-left: 1.7%;
+  
+}
+
+
+.educacion4{
+  margin-left: 12%;
+  margin-right: 10%;
+  text-align: center;
+  font-size: 131%;
+  color: red;
+  margin-bottom: 3%;
+  padding-top: 10%;
+}
+
+
+#github img{
+
+  width: 90%;
+}
+
+.foto{
+  width: 60%;
+}
+
+#ultima img{
+  width: 100%;
+  padding-top: 30%;
+
+}
+
+.yo{
+  margin-left: 5%;
+}
+
+
+.parte_negra {
+  background-color:  #007bff; 
+  color: white;
+  text-align: center;
+  padding: 10px; 
+  display: flex;
+
+}
+
+
+.parte_negra p{
+  font-size: 200%;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.parte{
+
+  text-decoration: none;
+  color: white;
+
+}
+.parte_negra4{
+  width: 5%;
+  margin-left: 30.5%;
+
+}
+
+.parte_negra5{
+  width: 5%;
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+  .col-md-62, .col-md-63 {
+    width: 100%;
+    margin-bottom: 20px;
+    
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .icono1{
+    width: 5%;
+    position: absolute;
+    top: 96.9%;
+    left: 105%; 
+    transform: translate(-50%, -50%); 
+  }
+  
+  }
+
+
+.icono1{
+  width: 3%;
+  position: absolute;
+  top: 81%;
+  left: 39%; 
+  transform: translate(-50%, -50%); 
+}
+@media only screen and (max-width: 500px) {
+  .progreso1{
+    display: block;
+    width: 100%;
+    padding-left: 9%;
+
+  }
+
+  .progreso2{
+    display: block;
+    margin-top: 5%;
+    padding-left: 9%;
+    
+
+  }
+
+  .progress{
+
+    width: 80%;
+    border: 2px solid;color: black;
+    align-content: center;
+    margin: 5%;
+
+  
+  
+  }
+
+  .parte_negra {
+    text-align: center; /* Centra el texto */
+  }
+  
+  .parte_negra4, .parte_negra5 {
+    margin: 0%;
+  
+  }
+
+
+  .col-md-62, .col-md-63 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .icono1{
+    width: 5%;
+    position: absolute;
+    top: 96.9%;
+    left: 105%; 
+    transform: translate(-50%, -50%); 
+  }
+
+  .progreso1{
+    display: block;
+    width: 100%;
+    padding-left: 9%;
+  }
+
+  .progreso2{
+    display: block;
+    margin-top: 5%;
+    padding-left: 9%;
+  }
+
+  .progress{
+    width: 80%;
+    border: 2px solid;color: black;
+    align-content: center;
+    margin: 5%;
+  }
+
+  .parte_negra {
+    text-align: center; /* Centra el texto */
+  }
+  
+  .parte_negra4, .parte_negra5 {
+    margin: 0%;
+  }
+}
+
+
